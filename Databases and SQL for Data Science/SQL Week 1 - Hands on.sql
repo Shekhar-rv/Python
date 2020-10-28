@@ -1,3 +1,4 @@
+-- Sería bueno traducirlo al españo amvv
 --SQL Week 1 - Hands on
 -- If table exisits then uncomment the below line of code:
 drop table INSTRUCTOR;
